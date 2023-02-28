@@ -11,6 +11,4 @@
 
 Both work in Obsidian
 
-Here is another page:
-[Here is another page](./foo.md)
-
+[Here is another page](Hello%20cat.md)
