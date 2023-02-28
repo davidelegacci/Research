@@ -1,3 +1,5 @@
+# Hamiltonian Riemannian Game Dynamics
+
 ## Evolutionary game dynamics
 Evolutionary game dynamics is a well-established interdisciplinary subject with far-reaching applications to genetics, ecology, chemistry, physics of complex systems, sociobiology and economics[^hof][^san].
 
