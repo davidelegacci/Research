@@ -5,22 +5,24 @@ Broadly speaking it models the evolution of a population of individuals divided 
 
 The fraction of the individuals belonging to a subpopulation $i$ is given by a number $x_i$ between $0$ and $1$, so that the state $x$ of the entire population at any given time is described by a point on the standard simplex $\Delta$. The fitness of a subpopulation when the population is at some state is then a real number $f_i(x)$ depending on the subpopulation and the population state, and the fraction of individuals belonging to a given subpopulation expands or shrink over time according to a dynamical system on the simplex
 
-$$\dot{x} = X(x) \tag{1} \label{dyn}$$
+$$\dot{x} = X(x) \tag{1} $$
 
 the vector field $X$ being generated in some way by the fitness functions $f$.
 
 
 ## Riemannian game dynamics
-Mertikopoulos and Sandholm[^mer-san] showed that one way of generating the dynamical system $\eqref{dyn}$ in the interior of the simplex from the fitness functions $f$ is by means of a Riemannian metric $g$, demanding the motion to minimize the difference between a _cost_ function and a _gain_ function:
-$$X(x) = \text{argmin}_{v \in T_x{\Delta}} \left( \frac{1}{2} ||v||_x^2 - v \cdot f(x) \right) \tag{RGD-1} \label{RGD1}$$
-This is equivalent to orthogonally projecting (with respect to $g$) the vector field $f^{\sharp}$ on the simplex, where $\sharp$ is the [sharp isomorphism](https://en.wikipedia.org/wiki/Musical_isomorphism) associated with the metric $g$ and $f$ is seen as a $1$-form. The vector field $\eqref{RGD1}$ is then equivalent to
-$$X = f^{\sharp} - \frac{f^{\sharp} \cdot \mathbb{1}}{n \cdot \mathbb{1}}n \tag{RGD-2} \label{RGD2}$$
+Mertikopoulos and Sandholm[^mer-san] showed that one way of generating the dynamical system $(1)$ in the interior of the simplex from the fitness functions $f$ is by means of a Riemannian metric $g$, demanding the motion to minimize the difference between a _cost_ function and a _gain_ function:
+$$X(x) = \text{argmin}_{v \in T_x{\Delta}} \left( \frac{1}{2} ||v||_x^2 - v \cdot f(x) \right) \tag{RGD-1}$$
+This is equivalent to orthogonally projecting (with respect to $g$) the vector field $f^{\sharp}$ on the simplex, where $\sharp$ is the [sharp isomorphism](https://en.wikipedia.org/wiki/Musical_isomorphism) associated with the metric $g$ and $f$ is seen as a $1$-form. The vector field $(\text{RGD-1})$ is then equivalent to
+
+$$X = f^{\sharp} - \frac{f^{\sharp} \cdot \mathbb{1}}{n \cdot \mathbb{1}}n \tag{RGD-2}$$
+
 where $\mathbb{1} = (1, \dots, 1)$, and $n = \mathbb{1}^{\sharp}$ is a vector field normal to the simplex.
 
 ## Shahshahani metric and zero-sum replicator dynamics
 If $g$ is the Shahshahani metric[^sha][^akin90]
 $$g(x) = \sum_{i,j} \frac{\delta_{ij}}{x_i} \, dx^i \otimes dx^j$$
-then $\eqref{RGD2}$ becomes the *replicator field*[^shu]
+then $(\text{RGD-2})$ becomes the *replicator field*[^shu]
 $$X^i(x) = x^i \left( f_i(x) - \sum_j x^j f_j(x) \right)$$
 which says that the growth rate of a sub-population is equal to the difference between its fitness and the average fitness of the population.
 

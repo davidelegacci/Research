@@ -8,4 +8,12 @@
 
 ## Poisson Geometry of Riemannian Game Dynamics
 
-[Dynamics](./dynamics.md)
+`[]() Link` [Poisson Geometry of Riemannian Game Dynamics](Poisson%20Geometry%20of%20Riemannian%20Game%20Dynamics.md)
+
+`[[]] Link` [[Poisson Geometry of Riemannian Game Dynamics]]
+
+Both work in Obsidian
+
+Here is another page:
+[[Here is another page]]
+
