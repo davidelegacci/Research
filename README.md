@@ -1,10 +1,7 @@
 # Welcome to my Research blog
 
----
 
 ## [Back to main site](https://davidelegacci.it/)
-
----
 
 ## Poisson Geometry of Riemannian Game Dynamics
 
@@ -15,5 +12,5 @@
 Both work in Obsidian
 
 Here is another page:
-[[Here is another page]]
+[Here is another page](./foo.md)
 
