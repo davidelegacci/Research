@@ -25,7 +25,7 @@ where $\mathbb{1} = (1, \dots, 1)$, and $n = \mathbb{1}^{\sharp}$ is a vector fi
 
 ## Shahshahani metric and zero-sum replicator dynamics
 If $g$ is the Shahshahani metric[^sha][^akin90]
-$$g(x) = \sum_{i,j} \frac{\delta_{ij}}{x_i} \, dx^i \otimes dx^j$$
+$$g(x) = \sum_{i,j} \frac{\delta_{ij}}{x_i}  dx^i \otimes dx^j$$
 then $(\text{RGD-2})$ becomes the *replicator field*[^shu]
 $$X^i(x) = x^i \left( f_i(x) - \sum_j x^j f_j(x) \right)$$
 which says that the growth rate of a sub-population is equal to the difference between its fitness and the average fitness of the population.
