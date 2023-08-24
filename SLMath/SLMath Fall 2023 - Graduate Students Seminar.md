@@ -14,8 +14,14 @@
 ## Format
 - One seminar for both programs
 - Once a week, not on workshop weeks
-- From PhD to PhD
-- Senior expert survey
+- 45 min talk + 15 min discussion
+- Hybrid in person at SLMath and online
+
+---
+
+- Present your own work, from PhDs to PhDs
+- Survey by senior expert
+- Reading seminar
 
 ## Dates & Speakers
 
