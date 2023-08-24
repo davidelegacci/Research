@@ -1,5 +1,6 @@
-**➡️ [Vote for your preferred days & times](https://calendly.com/d/2wm-83y-76p/slmath-fall-2023-graduate-students-seminar)**
+
 # SLMath Fall 2023 - Graduate Students Seminar
+**⭐️ [Vote for your preferred days & times](https://calendly.com/d/2wm-83y-76p/slmath-fall-2023-graduate-students-seminar)**
 ## Resources
 - [Algorithms, Fairness, and Equity](https://www.slmath.org/programs/353)
 - [Mathematics and Computer Science of Market and Mechanism Design](https://www.slmath.org/programs/333)
@@ -18,7 +19,7 @@
 
 ## Dates & Speakers
 
-**➡️ [Vote for your preferred days & times](https://calendly.com/d/2wm-83y-76p/slmath-fall-2023-graduate-students-seminar)**
+**⭐️ [Vote for your preferred days & times](https://calendly.com/d/2wm-83y-76p/slmath-fall-2023-graduate-students-seminar)**
 
 - Week 38 (09.18 - 09.22): ?
 - Week 39 (09.25 - 09.29): ?
