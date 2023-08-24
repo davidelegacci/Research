@@ -4,6 +4,13 @@
 > - `mcs-pa@slmath.org`
 > - `afe-pa@slmath.org`
 
+{%
+- [Algorithms, Fairness, and Equity](https://www.slmath.org/programs/353)
+- [Mathematics and Computer Science of Market and Mechanism Design](https://www.slmath.org/programs/333)
+- `mcs-pa@slmath.org`
+- `afe-pa@slmath.org`
+%}
+
 ## Organizers
 - [Davide Legacci](https://davidelegacci.it/) until September 29th 2023 (davide.legacci@univ-grenoble-alpes.fr)
 - ?
