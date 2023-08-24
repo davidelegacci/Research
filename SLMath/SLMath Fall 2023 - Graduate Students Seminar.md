@@ -1,3 +1,4 @@
+# SLMath Fall 2023 - Graduate Students Seminar
 ## Resources
 - [Algorithms, Fairness, and Equity](https://www.slmath.org/programs/353)
 - [Mathematics and Computer Science of Market and Mechanism Design](https://www.slmath.org/programs/333)
