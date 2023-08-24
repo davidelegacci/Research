@@ -12,7 +12,7 @@
 %}
 
 
-{%test%}
+{% test %}
 
 ## Organizers
 - [Davide Legacci](https://davidelegacci.it/) until September 29th 2023 (davide.legacci@univ-grenoble-alpes.fr)
