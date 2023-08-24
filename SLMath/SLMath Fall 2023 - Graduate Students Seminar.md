@@ -17,8 +17,7 @@
 
 ## Dates & Speakers
 
->[!survey]
-> Vote for your preferred days & times
+**[Vote for your preferred days & times](https://calendly.com/d/2wm-83y-76p/slmath-fall-2023-graduate-students-seminar)**
 
 - Week 38 (09.18 - 09.22): ?
 - Week 39 (09.25 - 09.29): ?
