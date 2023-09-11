@@ -1,10 +1,5 @@
----
-usemathjax: true
----
+
 # Hamiltonian Riemannian Game Dynamics
-
-## Changes checker
-
 
 #hamiltonian-game-dynamics #evolutionary-game-theory #replicator-dynamics
 
