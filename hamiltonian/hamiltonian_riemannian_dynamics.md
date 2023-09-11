@@ -1,4 +1,11 @@
+---
+layout: default
+title: front matter title hamiltonian
+---
 # Hamiltonian Riemannian Game Dynamics
+
+# Edit counter: 1
+
 
 #hamiltonian-game-dynamics #evolutionary-game-theory #replicator-dynamics
 
