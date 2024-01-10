@@ -5,3 +5,9 @@ relative_links:
   collections: true
 include:
   - README.md
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
