@@ -1,4 +1,3 @@
-
 # Hamiltonian Riemannian Game Dynamics
 
 #hamiltonian-game-dynamics #evolutionary-game-theory #replicator-dynamics
