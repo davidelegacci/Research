@@ -1,7 +1,4 @@
----
-layout: default
-title: Blogging Like a Hacker
----
+
 # Hamiltonian Riemannian Game Dynamics
 
 #hamiltonian-game-dynamics #evolutionary-game-theory #replicator-dynamics
