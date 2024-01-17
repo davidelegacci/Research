@@ -1,0 +1,30 @@
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- config and load MathJax -->
+<script>
+	MathJax = {
+		tex: {
+			inlineMath: [['$', '$'], ['\\(', '\\)']],
+			macros: {
+				RR: "{\\bf R}",
+				bold: ["{\\bf #1}", 1],
+				indep: "{\\perp \\!\\!\\! \\perp}",
+			}
+		},
+		svg: {
+			fontCache: 'global'
+		},
+	};
+</script>
+
+<script type="text/javascript" id="MathJax-script" async
+src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<!-- Setup Google Analytics -->
+{% include head-custom-google-analytics.html %}
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
+
+<!-- end custom head snippets -->
