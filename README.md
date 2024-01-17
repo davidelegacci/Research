@@ -1,5 +1,11 @@
 # Davide Legacci - Research
 
+---
+
+<ul> {% for post in site.posts %} <li> <a href="{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul>
+
+---
+
 ## 🏠 [Back to main site](https://davidelegacci.it/)
 
 ## Hamiltonian Riemannian Game Dynamics
