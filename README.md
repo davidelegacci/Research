@@ -2,15 +2,17 @@
 
 ---
 
-<ul> {% for post in site.posts %} <li> <a href="Research{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul>
+<!-- WRONG <ul> {% for post in site.posts %} <li> <a href="Research{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul> -->
 
-<ul> {% for post in site.posts %} <li> <a href="{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul>
+<!-- WRONG <ul> {% for post in site.posts %} <li> <a href="{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul> -->
 
-<ul> {% for post in site.posts %} <li> <a href="/Research{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul>
+<!-- OK BUT HARDCODED <ul> {% for post in site.posts %} <li> <a href="/Research{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul> -->
 
+<!-- BEST -->
 <ul> {% for post in site.posts %} <li> <a href=".{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul>
+<!-- END BEST -->
 
-<ul> {% for post in site.posts %} <li> <a href="./Research{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul>
+<!-- WRONG <ul> {% for post in site.posts %} <li> <a href="./Research{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul> -->
 
 ---
 
