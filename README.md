@@ -21,7 +21,12 @@
 ## Hamiltonian Riemannian Game Dynamics
 Riemannian game dynamics[^mert] are dynamics for one-population games induced by the payoff vector field. Under some circumstances, such dynamics display Hamiltonian properties[^ali].
 
+- Old link
 ➡️ [Hamiltonian Riemannian Game Dynamics](./hamiltonian/hamiltonian_riemannian_dynamics.md)
+- Automatic Obsidian link
+[[2024-01-17-hamiltonian-riemannian-dynamics]]
+- Attempt manual link [Hamiltonian Game Dynamics](./_posts/2024-01-17-hamiltonian-riemannian-dynamics.md)
+- Attempt manual link [Hamiltonioan game dynamics]({% link 2024-01-17-hamiltonian-riemannian-dynamics.md %})
 
 ## Geometric Aspects of Learning and Evolution in Games
 The space of finite normal form games admits a non-canonical direct sum decomposition into the subspaces of non-strategic, potenti, and harmonic games[^can], closely related to the discrete Hodhe decomposition for simplicial complexes. I am interested in an analogue decomposition for games with continuous strategy space (concave games), and continuous population space (population games)
