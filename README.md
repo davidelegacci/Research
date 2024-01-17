@@ -17,7 +17,7 @@
 ## H2 linked
 
   {% for post in site.posts %}
-    ## [{{ post.title }}](.{{ post.url }})
+    <h2> <a href=".{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
   {% endfor %}
 
@@ -26,9 +26,9 @@
 ## H2 plus link 
 
   {% for post in site.posts %}
-    ## {{ post.title }}
+    <h2>{{ post.title }}</h2>
     {{ post.excerpt }}
-    ➡️[{{ post.title }}](.{{ post.url }})
+     <a href=".{{ post.url }}">➡️ {{ post.title }}</a>
   {% endfor %}
 
 
