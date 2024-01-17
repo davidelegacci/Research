@@ -1,7 +1,5 @@
 
->[!Abstract]
->Riemannian game dynamics[^mer-san] are dynamics for one-population games induced by the payoff vector field. Under some circumstances, such dynamics display Hamiltonian properties[^ali15].
-
+Riemannian game dynamics are dynamics for one-population games induced by the payoff vector field. Under some circumstances, such dynamics display Hamiltonian properties.
 
 # Hamiltonian Riemannian Game Dynamics
 
