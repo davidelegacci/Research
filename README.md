@@ -22,6 +22,8 @@
 Riemannian game dynamics[^mert] are dynamics for one-population games induced by the payoff vector field. Under some circumstances, such dynamics display Hamiltonian properties[^ali].
 
 ### Testing Jekyll links
+>[!Note]
+>Not working?
 
 - Old link
 ➡️ [Hamiltonian Riemannian Game Dynamics](./hamiltonian/hamiltonian_riemannian_dynamics.md)
