@@ -1,9 +1,10 @@
 # On Potentialness
 $\newcommand{\norm}[1]{||#1||}$
-- [[#Potentialness is well-defined|Potentialness is well-defined]]
-- [[#We can compute it in a cheaper way|We can compute it in a cheaper way]]
-- [[#Alternative definition?|Alternative definition?]]
 
+>[!Index]
+>- Potentialness is well-defined
+>- We can compute it in a cheaper way
+>- Alternative definition?
 ## Potentialness is well-defined
 
 We decompose $$u = u_p + u_h + u_k$$
